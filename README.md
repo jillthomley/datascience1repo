@@ -1,2 +1,3 @@
-# datascience1repo
-This is my practice STT2860 repository
+# Intro to Data Management and Visualization Practice Repo
+
+This is my practice repository for my data science class.
